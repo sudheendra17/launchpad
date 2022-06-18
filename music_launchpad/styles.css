@@ -1,0 +1,113 @@
+body {
+  text-align: center;
+  background-color:black;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+}
+.set {
+  margin: 10% auto;
+}
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+.Drums{
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: rgb(242, 242, 10);
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width:250px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 0;
+  color:rgb(228, 228, 79);
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-image: radial-gradient(rgb(244, 244, 13), rgb(109, 109, 5));
+}
+.Snares{
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width:250px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+}
+.snare{
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 0;
+  color:rgb(212, 46, 79);
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-image: radial-gradient(red, black);
+}
+.Beats{
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: rgb(111, 135, 231);
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width:250px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+.beat{
+  outline: none;
+  border: 10px solid #404B69;
+  text-align: left;
+  font-size: 0;
+  color:rgb(111, 135, 231);
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-image : radial-gradient(rgb(103, 103, 162), rgb(9, 9, 236));
+}
